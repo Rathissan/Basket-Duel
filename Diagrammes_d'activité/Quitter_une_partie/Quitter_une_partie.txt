@@ -1,0 +1,1 @@
+Ce diagramme "Quitter une partie" décrit le processus d'abandon : demande, confirmation ainsi que la notification des autres joueurs.
