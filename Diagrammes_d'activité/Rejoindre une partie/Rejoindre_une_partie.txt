@@ -1,0 +1,1 @@
+Ce diagramme "Rejoindre une partie" décrit l'intégration d'un joueur : sélection, validation (si besoin), mise à jour de la liste des joueurs et affichage de la partie.
