@@ -1,2 +1,0 @@
-Les diagrammes de séquence détaillent les interactions entre les joueurs et le système pour lancer une partie,
-jouer un tour et quitter une partie. Ils illustrent les échanges de messages et la chronologie des événements.
